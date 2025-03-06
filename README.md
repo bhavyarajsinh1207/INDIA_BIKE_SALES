@@ -29,7 +29,7 @@ README.md – Project details and instructions.
 
 🚀 How to Use
 Clone the repository:
-git clone https://github.com/your-username/indian-bike-sales-dashboard.git
+git clone https://github.com/bhavyarajsinh1207/indian-bike-sales-dashboard.git
 Open the Power BI file or PDF to explore the dashboard.
 Modify & enhance the dashboard using your own dataset.
 📌 Future Enhancements
